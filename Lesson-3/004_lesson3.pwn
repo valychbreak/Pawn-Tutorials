@@ -3,7 +3,7 @@
 public OnGameModeInit()
 {
 //------ Переменные, которые хранят данные о игроке -------
-    new bool:gender = false;
+    new bool:gender = true;
 	new bool:hasguitar = true;
 	new orgid = 1;
 //---------------------------------------------------------
