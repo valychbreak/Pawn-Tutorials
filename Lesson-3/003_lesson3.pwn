@@ -20,8 +20,8 @@ public OnGameModeInit()
 		// логического_выражения1 или логического_выражения2 равняется true)
 	}
 	*/
-	new number = 10;
-	new number2 = 1;
+	new number = 7;
+	new number2 = 8;
 
 	if(number == 7)
 	{
