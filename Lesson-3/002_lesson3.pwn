@@ -40,7 +40,7 @@ public OnGameModeInit()
  	*/
  	
  	//--------------------------------
-    new number = 4;
+    new number = 7;
  	if(number > 7)
  	{
  	    printf("Результат логического выражения: \n\"number > 7\"\n равен true");
