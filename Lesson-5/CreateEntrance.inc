@@ -1,5 +1,5 @@
 #tryinclude <a_samp>
-#tryinclude <streamer>
+//#tryinclude <streamer>
 
 #if !defined MAX_ENTRANCES
 	#define MAX_ENTRANCES 100
